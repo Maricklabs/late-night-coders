@@ -9,7 +9,6 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@clerk/nextjs": "^6.36.5",
     "@google/generative-ai": "^0.24.1",
     "canvas-confetti": "^1.9.4",
     "clsx": "^2.1.1",
@@ -19,11 +18,9 @@
     "lucide-react": "^0.562.0",
     "next": "16.1.0",
     "react": "19.2.3",
-    "react-beautiful-dnd": "^13.1.1",
     "react-dom": "19.2.3",
     "react-firebase-hooks": "^5.1.1",
     "react-player": "^3.4.0",
-    "react-tetris": "^0.4.0",
     "tailwind-merge": "^3.4.0",
     "use-sound": "^5.0.0"
   },
